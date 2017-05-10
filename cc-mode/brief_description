@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#cotributor: Henrique Jung <henriquenj@gmail.com>
-#name: Function description
+#cotributor: chenpeng <chenpengsmail@qq.com>
+#name: brief description
 #key: \brief
 #group: doxygen
 # --
@@ -8,6 +8,7 @@
  *  \brief ${1:function description}
  ${2:*
  *  ${3:Detailed description}
- *
  }*
+ *  \author ${4:chenpeng <chenpeng@voole.com>}
+ *  \date ${5:`(format-time-string "%Y-%m-%d")`}
  */

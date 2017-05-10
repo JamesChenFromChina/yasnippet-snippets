@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#cotributor: Henrique Jung <henriquenj@gmail.com>
+#cotributor: chenpeng <chenpengsmail@qq.com>
 #name: File description
 #key: \file
 #group: doxygen
@@ -9,5 +9,6 @@
  *   \brief ${2:A Documented file.}
  ${3:*
  *  ${4:Detailed description}
- *
-}*/
+ }* \author ${5:chenpeng <chenpeng@voole.com>}
+ * \date ${6:`(format-time-string "%Y-%m-%d")`}
+*/

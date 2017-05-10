@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#cotributor: Henrique Jung <henriquenj@gmail.com>
+#cotributor: chenpeng <chenpengsmail@qq.com>
 #name: Function description
 #key: \func
 #group: doxygen
@@ -11,4 +11,6 @@
  *
  }*  \param ${4:param}
  *  \return ${5:return type}
+ *  \author ${6:chenpeng <chenpeng@voole.com>}
+ *  \date ${7:`(format-time-string "%Y-%m-%d")`}
  */
