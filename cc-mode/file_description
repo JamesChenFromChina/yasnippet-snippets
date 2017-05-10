@@ -5,10 +5,11 @@
 #group: doxygen
 # --
 /**
- *   \file ${1:`(file-name-nondirectory(buffer-file-name))`}
- *   \brief ${2:A Documented file.}
+ *  \file ${1:`(file-name-nondirectory(buffer-file-name))`}
+ *  \brief ${2:A Documented file.}
  ${3:*
  *  ${4:Detailed description}
- }* \author ${5:chenpeng <chenpeng@voole.com>}
- * \date ${6:`(format-time-string "%Y-%m-%d")`}
+ }*
+ *  \author ${5:chenpeng <chenpeng@voole.com>}
+ *  \date ${6:`(format-time-string "%Y-%m-%d")`}
 */
