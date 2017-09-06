@@ -10,6 +10,6 @@
  ${3:*
  *  ${4:Detailed description}
  }*
- *  \author ${5:chenpeng <chenpeng@voole.com>}
+ *  \author ${5:chenpeng <chenpengsmail@qq.com>}
  *  \date ${6:`(format-time-string "%Y-%m-%d")`}
 */
